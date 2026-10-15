@@ -4,6 +4,7 @@ Este repositorio contiene mi copia de trabajo del minicurso didáctico WebLab. E
 
 > 🔗 **Repositorio de origen:** [https://github.com/xZapeDev/mi-weblab](https://github.com/xZapeDev/mi-weblab)
 
+«Trabajo realizado»
 ---
 
 # WebLab — Tu primera web, paso a paso
