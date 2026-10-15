@@ -1,3 +1,11 @@
+# Mi Laboratorio Web Personal — Práctica LMSGI
+
+Este repositorio contiene mi copia de trabajo del minicurso didáctico WebLab. El **objetivo** de este proyecto es poner en práctica mis conocimientos de desarrollo web adaptando los archivos del curso, afianzar el uso de Git mediante la gestión de commits y ramas, y documentar mi flujo de aprendizaje directamente en GitHub.
+
+> 🔗 **Repositorio de origen:** [https://github.com/xZapeDev/mi-weblab](https://github.com/xZapeDev/mi-weblab)
+
+---
+
 # WebLab — Tu primera web, paso a paso
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
